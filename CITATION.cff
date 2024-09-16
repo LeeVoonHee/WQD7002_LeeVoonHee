@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Lee"
+  given-names: "Voon Hee"
+  orcid: "https://orcid.org/0009-0003-2406-7760"
+title: "WQD7002_LeeVoonHee"
+version: 0.1.0
+doi: 10.5281/zenodo.13767093
+date-released: 2024-09-16
+url: "https://doi.org/10.5281/zenodo.13767093"
